@@ -1,0 +1,1001 @@
+id,Country,Postal_Code,Credit_Card Type,Credit_card # 
+1,Indonesia,,jcb,3.58E+15
+2,Argentina,8503,visa,4.62E+15
+3,Democratic Republic of the Congo,,jcb,3.56E+15
+4,China,,diners-club-us-ca,5.40E+15
+5,Libya,,jcb,3.53E+15
+6,Sudan,,jcb,3.54E+15
+7,Uganda,,jcb,3.57E+15
+8,Philippines,7020,jcb,3.58E+15
+9,China,,jcb,3.55E+15
+10,Indonesia,,china-unionpay,5.61E+16
+11,Peru,,visa-electron,4.84E+15
+12,Czech Republic,388 01,visa,4.04E+15
+13,Ukraine,,mastercard,5.11E+15
+14,France,35022 CEDEX 2,mastercard,5.10E+15
+15,Portugal,3060-707,switch,6.33E+17
+16,Czech Republic,763 26,diners-club-enroute,2.02E+14
+17,Philippines,1060,visa-electron,4.91E+15
+18,Croatia,35400,jcb,3.57E+15
+19,China,,mastercard,5.01E+15
+20,Brazil,96330-000,jcb,3.58E+15
+21,China,,jcb,3.59E+15
+22,Slovenia,2351,diners-club-carte-blanche,3.02E+13
+23,Ecuador,,jcb,3.58E+15
+24,United States,89436,mastercard,5.01E+15
+25,Brazil,96400-000,jcb,3.58E+15
+26,Malta,ZTN,visa,4.04E+15
+27,Portugal,2775-398,visa-electron,4.84E+15
+28,Russia,346536,jcb,3.58E+15
+29,France,75542 CEDEX 11,visa-electron,4.91E+15
+30,Colombia,546079,jcb,3.57E+15
+31,South Korea,,mastercard,5.25E+15
+32,China,,mastercard,5.01E+15
+33,Portugal,7005-104,jcb,3.58E+15
+34,Slovenia,2310,jcb,3.54E+15
+35,Portugal,5100-419,maestro,5.02E+17
+36,Japan,969-6244,jcb,3.54E+15
+37,Russia,393400,jcb,3.55E+15
+38,Myanmar,,jcb,3.56E+15
+39,United States,11210,jcb,3.57E+15
+40,China,,visa-electron,4.92E+15
+41,Brazil,68180-000,americanexpress,3.72E+14
+42,Canada,J3T,switch,5.64E+18
+43,Egypt,,bankcard,5.60E+15
+44,China,,jcb,3.58E+15
+45,China,,jcb,3.53E+15
+46,China,,instapayment,6.38E+15
+47,Indonesia,,jcb,3.56E+15
+48,China,,jcb,3.53E+15
+49,Peru,,jcb,3.55E+15
+50,Benin,,mastercard,5.01E+15
+51,Peru,,jcb,3.54E+15
+52,Indonesia,,jcb,3.54E+15
+53,Nepal,,jcb,3.56E+15
+54,Indonesia,,jcb,3.57E+15
+55,Tunisia,,bankcard,5.61E+15
+56,China,,jcb,3.55E+15
+57,United States,11480,jcb,3.56E+15
+58,Iraq,,bankcard,5.60E+15
+59,Indonesia,,mastercard,5.01E+15
+60,Chile,,jcb,3.59E+15
+61,Colombia,51059,americanexpress,3.74E+14
+62,Panama,,diners-club-carte-blanche,3.02E+13
+63,Tanzania,,maestro,6.76E+15
+64,Mexico,81806,visa-electron,4.91E+15
+65,Philippines,8118,jcb,3.58E+15
+66,France,42014 CEDEX 2,jcb,3.58E+15
+67,Nigeria,,diners-club-enroute,2.02E+14
+68,Philippines,8722,americanexpress,3.74E+14
+69,Indonesia,,mastercard,5.52E+15
+70,Brazil,55170-000,mastercard,5.46E+15
+71,China,,jcb,3.57E+15
+72,Sweden,124 76,maestro,6.76E+15
+73,China,,diners-club-carte-blanche,3.01E+13
+74,Malta,GXQ,jcb,3.55E+15
+75,Honduras,,mastercard,5.10E+15
+76,Sri Lanka,11600,laser,6.30E+17
+77,United States,98109,jcb,3.56E+15
+78,Croatia,32235,jcb,3.54E+15
+79,France,91821 CEDEX,diners-club-carte-blanche,3.03E+13
+80,New Zealand,4183,americanexpress,3.38E+14
+81,Poland,62-571,china-unionpay,5.60E+15
+82,Philippines,5041,switch,6.33E+17
+83,China,,jcb,3.53E+15
+84,Yemen,,visa-electron,4.91E+15
+85,Poland,95-081,diners-club-enroute,2.02E+14
+86,Indonesia,,jcb,3.58E+15
+87,Brazil,57100-000,jcb,3.57E+15
+88,Malaysia,10612,jcb,3.58E+15
+89,Indonesia,,visa,4.04E+12
+90,Bosnia and Herzegovina,,bankcard,5.60E+15
+91,Czech Republic,538 63,jcb,3.53E+15
+92,Japan,299-4128,diners-club-us-ca,5.57E+15
+93,Venezuela,,visa-electron,4.84E+15
+94,France,80020 CEDEX 9,bankcard,5.60E+15
+95,Philippines,2402,jcb,3.54E+15
+96,Portugal,2780-005,maestro,6.76E+16
+97,New Zealand,5571,china-unionpay,5.60E+17
+98,China,,jcb,3.56E+15
+99,Indonesia,,jcb,3.57E+15
+100,Indonesia,,jcb,3.59E+15
+101,Indonesia,,jcb,3.56E+15
+102,Mexico,87395,visa,4.37E+12
+103,Sweden,564 35,diners-club-us-ca,5.56E+15
+104,Russia,446416,china-unionpay,5.60E+15
+105,Indonesia,,americanexpress,3.75E+14
+106,Japan,999-7638,maestro,6.05E+17
+107,China,,jcb,3.57E+15
+108,Uruguay,,jcb,3.53E+15
+109,Russia,157510,jcb,3.56E+15
+110,France,42355 CEDEX,visa,4.04E+15
+111,France,45969 CEDEX 9,diners-club-carte-blanche,3.04E+13
+112,China,,jcb,3.54E+15
+113,Ukraine,,jcb,3.59E+15
+114,China,,switch,4.91E+18
+115,France,75215 CEDEX 16,bankcard,5.60E+15
+116,Guadeloupe,97159 CEDEX,visa-electron,4.51E+15
+117,Bosnia and Herzegovina,,visa-electron,4.91E+15
+118,United Kingdom,EC3M,visa-electron,4.18E+15
+119,Sweden,411 21,visa-electron,4.03E+15
+120,Namibia,,jcb,3.53E+15
+121,Colombia,273017,switch,4.91E+15
+122,Colombia,687047,instapayment,6.37E+15
+123,Saudi Arabia,,jcb,3.55E+15
+124,Ukraine,,jcb,3.57E+15
+125,Poland,27-530,jcb,3.53E+15
+126,Cameroon,,mastercard,5.00E+15
+127,Somalia,,instapayment,6.38E+15
+128,Portugal,2565-035,jcb,3.56E+15
+129,Poland,58-240,jcb,3.57E+15
+130,Sweden,824 26,americanexpress,3.38E+14
+131,China,,jcb,3.55E+15
+132,Pakistan,34451,diners-club-us-ca,5.49E+15
+133,China,,jcb,3.56E+15
+134,Poland,34-142,mastercard,5.00E+15
+135,Kazakhstan,,bankcard,5.60E+15
+136,France,13503 CEDEX,jcb,3.53E+15
+137,Indonesia,,china-unionpay,5.60E+16
+138,China,,americanexpress,3.45E+14
+139,South Africa,3081,jcb,3.54E+15
+140,Hungary,1074,solo,6.77E+18
+141,Sweden,752 42,switch,6.33E+18
+142,Russia,649220,jcb,3.56E+15
+143,China,,jcb,3.59E+15
+144,Philippines,6216,diners-club-enroute,2.02E+14
+145,Philippines,3513,diners-club-carte-blanche,3.06E+13
+146,Iran,,laser,6.71E+15
+147,Brazil,83900-000,jcb,3.57E+15
+148,Philippines,3017,jcb,3.55E+15
+149,Philippines,1066,visa,4.02E+15
+150,Colombia,55028,china-unionpay,5.60E+17
+151,Canada,T1K,solo,6.77E+15
+152,Indonesia,,jcb,3.53E+15
+153,Colombia,81067,jcb,3.53E+15
+154,Poland,34-651,switch,6.33E+17
+155,France,67953 CEDEX 9,laser,6.71E+17
+156,France,59784 CEDEX 9,visa-electron,4.91E+15
+157,China,,jcb,3.56E+15
+158,China,,mastercard,5.05E+15
+159,Vietnam,,bankcard,5.60E+15
+160,Indonesia,,diners-club-enroute,2.02E+14
+161,Indonesia,,jcb,3.56E+15
+162,Spain,2005,mastercard,5.38E+15
+163,China,,laser,6.77E+17
+164,Afghanistan,,jcb,3.58E+15
+165,China,,jcb,3.53E+15
+166,Philippines,9003,diners-club-enroute,2.02E+14
+167,China,,diners-club-international,3.65E+13
+168,Russia,356403,jcb,3.53E+15
+169,China,,maestro,5.04E+15
+170,China,,jcb,3.55E+15
+171,Sweden,433 84,china-unionpay,5.60E+16
+172,Indonesia,,diners-club-carte-blanche,3.05E+13
+173,Peru,,jcb,3.54E+15
+174,Brazil,37890-000,americanexpress,3.75E+14
+175,China,,diners-club-carte-blanche,3.03E+13
+176,Ukraine,,jcb,3.54E+15
+177,China,,solo,6.77E+17
+178,Micronesia,,jcb,3.58E+15
+179,Czech Republic,756 04,bankcard,5.60E+15
+180,South Africa,9987,laser,6.30E+16
+181,Peru,,jcb,3.57E+15
+182,Canada,R6M,switch,6.76E+18
+183,Russia,353226,instapayment,6.37E+15
+184,Indonesia,,americanexpress,3.38E+14
+185,China,,bankcard,5.60E+15
+186,China,,jcb,3.56E+15
+187,China,,maestro,6.30E+18
+188,China,,mastercard,5.00E+15
+189,Brazil,36980-000,visa,4.04E+15
+190,Russia,456862,switch,4.91E+17
+191,Kuwait,,diners-club-enroute,2.02E+14
+192,Russia,649743,maestro,6.76E+15
+193,Philippines,2430,laser,6.71E+18
+194,Indonesia,,jcb,3.56E+15
+195,United States,11388,diners-club-enroute,2.02E+14
+196,Vietnam,,maestro,6.30E+15
+197,Indonesia,,americanexpress,3.75E+14
+198,China,,jcb,3.56E+15
+199,China,,visa-electron,4.92E+15
+200,China,,bankcard,5.61E+15
+201,Mongolia,,diners-club-enroute,2.02E+14
+202,Armenia,,maestro,5.89E+17
+203,Venezuela,,jcb,3.55E+15
+204,Indonesia,,jcb,3.54E+15
+205,China,,jcb,3.55E+15
+206,Uzbekistan,,china-unionpay,5.60E+16
+207,China,,mastercard,5.27E+15
+208,Ukraine,,jcb,3.58E+15
+209,Indonesia,,americanexpress,3.74E+14
+210,Brazil,97500-000,jcb,3.53E+15
+211,Indonesia,,switch,6.76E+17
+212,China,,jcb,3.55E+15
+213,Philippines,4332,jcb,3.58E+15
+214,Indonesia,,diners-club-carte-blanche,3.03E+13
+215,China,,jcb,3.53E+15
+216,Colombia,253449,jcb,3.54E+15
+217,Indonesia,,diners-club-enroute,2.02E+14
+218,Japan,365-0023,bankcard,5.60E+15
+219,Portugal,5155-406,switch,4.90E+18
+220,Indonesia,,jcb,3.57E+15
+221,Portugal,2070-510,diners-club-carte-blanche,3.02E+13
+222,Cameroon,,diners-club-us-ca,5.43E+15
+223,Netherlands,2228,visa,4.10E+15
+224,China,,jcb,3.56E+15
+225,Czech Republic,739 04,bankcard,5.60E+15
+226,Russia,607224,jcb,3.54E+15
+227,Brazil,42700-000,jcb,3.58E+15
+228,Russia,182520,jcb,3.56E+15
+229,China,,diners-club-us-ca,5.45E+15
+230,China,,mastercard,5.55E+15
+231,Somalia,,jcb,3.54E+15
+232,Norway,3027,visa,4.88E+15
+233,Russia,633216,jcb,3.57E+15
+234,China,,americanexpress,3.75E+14
+235,Honduras,,diners-club-enroute,2.02E+14
+236,Thailand,36120,jcb,3.59E+15
+237,Ukraine,,maestro,6.76E+17
+238,Russia,249087,bankcard,5.60E+15
+239,South Africa,5382,diners-club-enroute,2.02E+14
+240,Serbia,,diners-club-us-ca,5.46E+15
+241,Philippines,6541,jcb,3.54E+15
+242,France,92521 CEDEX,bankcard,5.60E+15
+243,Chad,,visa,4.02E+12
+244,China,,switch,4.91E+17
+245,Jordan,,jcb,3.58E+15
+246,Portugal,4980-403,jcb,3.56E+15
+247,Canada,M2N,bankcard,5.60E+15
+248,Chile,,visa-electron,4.91E+15
+249,Cuba,,jcb,3.56E+15
+250,Indonesia,,jcb,3.56E+15
+251,Ukraine,,solo,6.77E+18
+252,Indonesia,,jcb,3.56E+15
+253,Costa Rica,21006,jcb,3.57E+15
+254,Cuba,,jcb,3.56E+15
+255,Slovenia,9231,jcb,3.58E+15
+256,Peru,,diners-club-carte-blanche,3.02E+13
+257,Philippines,3525,instapayment,6.40E+15
+258,Philippines,3103,mastercard,5.52E+15
+259,China,,china-unionpay,5.60E+15
+260,Indonesia,,visa-electron,4.18E+15
+261,Poland,42-772,jcb,3.57E+15
+262,Indonesia,,americanexpress,3.74E+14
+263,Philippines,2111,laser,6.71E+15
+264,Latvia,,americanexpress,3.38E+14
+265,Kenya,,diners-club-international,3.62E+13
+266,China,,diners-club-carte-blanche,3.05E+13
+267,Venezuela,,jcb,3.56E+15
+268,China,,jcb,3.53E+15
+269,Pakistan,36121,laser,6.71E+17
+270,Portugal,2715-145,laser,6.77E+16
+271,China,,mastercard,5.30E+15
+272,Brazil,18540-000,switch,5.64E+17
+273,Czech Republic,739 12,jcb,3.57E+15
+274,China,,china-unionpay,5.60E+16
+275,South Africa,2525,jcb,3.58E+15
+276,Bolivia,,visa,4.02E+15
+277,Nicaragua,,jcb,3.58E+15
+278,Brazil,57120-000,jcb,3.53E+15
+279,Sweden,132 30,diners-club-us-ca,5.58E+15
+280,Mexico,56617,visa-electron,4.91E+15
+281,Portugal,7600-314,mastercard,5.10E+15
+282,France,54529 CEDEX,jcb,3.58E+15
+283,Japan,228-0027,switch,5.64E+18
+284,Czech Republic,687 24,jcb,3.53E+15
+285,Poland,65-980,jcb,3.57E+15
+286,Japan,962-0305,jcb,3.58E+15
+287,Malaysia,90705,maestro,6.76E+15
+288,Germany,1189,jcb,3.56E+15
+289,Czech Republic,503 51,jcb,3.53E+15
+290,Russia,421991,switch,4.90E+15
+291,Greece,,americanexpress,3.49E+14
+292,Russia,142717,jcb,3.57E+15
+293,Brazil,55810-000,solo,6.33E+18
+294,France,59895 CEDEX 9,americanexpress,3.74E+14
+295,Estonia,,jcb,3.58E+15
+296,Indonesia,,jcb,3.57E+15
+297,Nigeria,,jcb,3.58E+15
+298,Ukraine,,jcb,3.53E+15
+299,Indonesia,,americanexpress,3.74E+14
+300,France,19318 CEDEX,mastercard,5.36E+15
+301,China,,mastercard,5.05E+15
+302,China,,instapayment,6.38E+15
+303,Portugal,4615-099,jcb,3.54E+15
+304,France,44094 CEDEX 1,jcb,3.57E+15
+305,China,,visa-electron,4.03E+15
+306,Bosnia and Herzegovina,,switch,4.90E+15
+307,China,,jcb,3.59E+15
+308,Croatia,22300,jcb,3.58E+15
+309,Czech Republic,664 84,mastercard,5.00E+15
+310,Russia,624486,mastercard,5.00E+15
+311,China,,americanexpress,3.38E+14
+312,Indonesia,,jcb,3.58E+15
+313,China,,switch,4.91E+18
+314,Greece,,diners-club-carte-blanche,3.00E+13
+315,China,,jcb,3.55E+15
+316,Russia,214501,diners-club-carte-blanche,3.01E+13
+317,Philippines,2416,visa,4.04E+15
+318,China,,mastercard,5.01E+15
+319,Japan,270-1108,mastercard,5.05E+15
+320,China,,diners-club-us-ca,5.58E+15
+321,China,,jcb,3.53E+15
+322,Russia,161120,diners-club-enroute,2.01E+14
+323,Indonesia,,jcb,3.58E+15
+324,Afghanistan,,jcb,3.54E+15
+325,Kazakhstan,,jcb,3.55E+15
+326,Portugal,4635-115,jcb,3.58E+15
+327,Sri Lanka,80615,switch,4.91E+17
+328,Portugal,4615-544,mastercard,5.01E+15
+329,French Polynesia,,china-unionpay,5.60E+16
+330,Ukraine,,jcb,3.58E+15
+331,China,,jcb,3.56E+15
+332,Mongolia,,china-unionpay,5.60E+17
+333,Brazil,96745-000,mastercard,5.05E+15
+334,China,,switch,6.76E+15
+335,Philippines,5815,diners-club-carte-blanche,3.05E+13
+336,China,,jcb,3.57E+15
+337,Argentina,6305,jcb,3.57E+15
+338,Sweden,182 57,bankcard,5.60E+15
+339,France,45004 CEDEX 1,americanexpress,3.38E+14
+340,Portugal,2630-115,jcb,3.57E+15
+341,Cuba,,mastercard,5.48E+15
+342,France,02104 CEDEX,jcb,3.57E+15
+343,China,,jcb,3.56E+15
+344,Indonesia,,mastercard,5.39E+15
+345,Indonesia,,mastercard,5.01E+15
+346,Greece,,jcb,3.57E+15
+347,Netherlands,5009,americanexpress,3.38E+14
+348,Dominican Republic,10514,china-unionpay,5.60E+17
+349,Indonesia,,china-unionpay,5.60E+16
+350,Colombia,687527,jcb,3.56E+15
+351,Norway,9285,mastercard,5.32E+15
+352,Russia,242315,mastercard,5.10E+15
+353,Bulgaria,2137,mastercard,5.10E+15
+354,Russia,450049,diners-club-enroute,2.02E+14
+355,Philippines,9222,instapayment,6.38E+15
+356,Russia,157630,mastercard,5.00E+15
+357,Sweden,341 84,americanexpress,3.41E+14
+358,Sudan,,diners-club-enroute,2.02E+14
+359,Brazil,48110-000,mastercard,5.10E+15
+360,Argentina,4149,jcb,3.58E+15
+361,Mongolia,,mastercard,5.00E+15
+362,Russia,391327,jcb,3.54E+15
+363,Indonesia,,jcb,3.56E+15
+364,Indonesia,,jcb,3.56E+15
+365,China,,diners-club-enroute,2.02E+14
+366,Poland,42-242,jcb,3.58E+15
+367,Nigeria,,solo,6.77E+18
+368,Germany,13409,visa-electron,4.92E+15
+369,Denmark,1567,jcb,3.58E+15
+370,China,,diners-club-carte-blanche,3.01E+13
+371,Brazil,24900-000,mastercard,5.27E+15
+372,China,,diners-club-enroute,2.02E+14
+373,Jordan,,bankcard,5.60E+15
+374,Japan,311-1500,visa-electron,4.84E+15
+375,Afghanistan,,jcb,3.54E+15
+376,Czech Republic,267 07,jcb,3.56E+15
+377,Uganda,,bankcard,5.60E+15
+378,Colombia,634027,jcb,3.58E+15
+379,China,,jcb,3.58E+15
+380,Poland,34-322,jcb,3.58E+15
+381,Sweden,781 29,jcb,3.57E+15
+382,France,75675 CEDEX 14,jcb,3.56E+15
+383,Kyrgyzstan,,instapayment,6.39E+15
+384,Indonesia,,maestro,5.02E+16
+385,Indonesia,,jcb,3.59E+15
+386,Gambia,,laser,6.71E+17
+387,Peru,,laser,6.71E+17
+388,Libya,,jcb,3.57E+15
+389,China,,americanexpress,3.74E+14
+390,Guatemala,14009,americanexpress,3.74E+14
+391,China,,diners-club-enroute,2.02E+14
+392,Philippines,9801,mastercard,5.10E+15
+393,Russia,391710,jcb,3.56E+15
+394,China,,diners-club-carte-blanche,3.02E+13
+395,Venezuela,,jcb,3.54E+15
+396,Poland,42-595,jcb,3.58E+15
+397,United States,95160,visa-electron,4.03E+15
+398,Central African Republic,,jcb,3.54E+15
+399,France,75188 CEDEX 04,jcb,3.55E+15
+400,Cuba,,jcb,3.53E+15
+401,Portugal,2760-040,jcb,3.57E+15
+402,France,93883 CEDEX,diners-club-carte-blanche,3.01E+13
+403,Philippines,9803,diners-club-us-ca,5.56E+15
+404,Portugal,4950-770,jcb,3.54E+15
+405,France,37072 CEDEX 2,maestro,5.04E+18
+406,Brazil,65415-000,visa-electron,4.91E+15
+407,Brazil,85550-000,jcb,3.56E+15
+408,Portugal,6060-089,mastercard,5.11E+15
+409,Zambia,,diners-club-carte-blanche,3.04E+13
+410,France,77004 CEDEX,jcb,3.59E+15
+411,Nigeria,,diners-club-carte-blanche,3.04E+13
+412,Brazil,57160-000,visa-electron,4.18E+15
+413,Brazil,84000-000,jcb,3.56E+15
+414,China,,jcb,3.57E+15
+415,Mexico,31803,americanexpress,3.74E+14
+416,France,72052 CEDEX 2,switch,4.94E+15
+417,Sweden,756 49,jcb,3.54E+15
+418,Russia,142817,mastercard,5.05E+15
+419,Dominican Republic,10802,americanexpress,3.46E+14
+420,Indonesia,,jcb,3.55E+15
+421,Germany,21037,visa,4.04E+12
+422,China,,jcb,3.56E+15
+423,Colombia,478008,visa-electron,4.18E+15
+424,Poland,26-803,visa-electron,4.41E+15
+425,Belize,,maestro,6.76E+17
+426,Indonesia,,mastercard,5.47E+15
+427,Canada,P0M,diners-club-carte-blanche,3.01E+13
+428,Argentina,3109,mastercard,5.10E+15
+429,Russia,392558,china-unionpay,5.61E+17
+430,Philippines,2444,visa,4.04E+15
+431,Brazil,19970-000,americanexpress,3.75E+14
+432,North Korea,,mastercard,5.10E+15
+433,France,91104 CEDEX,jcb,3.55E+15
+434,Finland,19651,jcb,3.53E+15
+435,China,,jcb,3.57E+15
+436,Costa Rica,11204,jcb,3.56E+15
+437,Greece,,jcb,3.53E+15
+438,Argentina,9201,mastercard,5.28E+15
+439,Philippines,5105,solo,6.33E+18
+440,United States,14609,americanexpress,3.78E+14
+441,Brazil,68675-000,jcb,3.59E+15
+442,Philippines,9406,jcb,3.57E+15
+443,Poland,08-445,visa,4.14E+15
+444,Brazil,44640-000,visa-electron,4.41E+15
+445,France,35022 CEDEX 2,mastercard,5.19E+15
+446,Russia,632514,jcb,3.57E+15
+447,Peru,,switch,6.33E+15
+448,Indonesia,,diners-club-carte-blanche,3.05E+13
+449,Russia,141508,laser,6.71E+16
+450,Brazil,78250-000,jcb,3.53E+15
+451,Canada,E6J,mastercard,5.10E+15
+452,Indonesia,,switch,6.76E+15
+453,Indonesia,,jcb,3.55E+15
+454,Brazil,55290-000,jcb,3.55E+15
+455,China,,jcb,3.57E+15
+456,China,,jcb,3.58E+15
+457,Indonesia,,diners-club-carte-blanche,3.04E+13
+458,Mexico,96720,switch,4.94E+17
+459,Cuba,,maestro,5.04E+18
+460,Colombia,523047,china-unionpay,5.60E+15
+461,Chile,,maestro,6.05E+17
+462,Russia,624144,china-unionpay,5.61E+15
+463,Mexico,29223,jcb,3.54E+15
+464,Brazil,35640-000,switch,6.33E+18
+465,Russia,142717,jcb,3.56E+15
+466,Finland,44950,diners-club-carte-blanche,3.02E+13
+467,Armenia,,jcb,3.56E+15
+468,China,,jcb,3.56E+15
+469,Portugal,3060-629,maestro,5.04E+16
+470,Sweden,291 88,jcb,3.57E+15
+471,China,,jcb,3.57E+15
+472,Indonesia,,mastercard,5.14E+15
+473,Ukraine,,solo,6.77E+17
+474,Indonesia,,jcb,3.57E+15
+475,Philippines,8508,americanexpress,3.72E+14
+476,France,49804 CEDEX,jcb,3.54E+15
+477,Argentina,2434,jcb,3.57E+15
+478,Brazil,07700-000,china-unionpay,5.60E+18
+479,France,93209 CEDEX,diners-club-enroute,2.01E+14
+480,Australia,1315,mastercard,5.36E+15
+481,Indonesia,,diners-club-us-ca,5.40E+15
+482,Indonesia,,mastercard,5.00E+15
+483,South Korea,,jcb,3.56E+15
+484,Japan,661-0963,switch,5.64E+18
+485,China,,jcb,3.58E+15
+486,Brazil,58280-000,jcb,3.53E+15
+487,Sweden,748 31,jcb,3.58E+15
+488,Mauritius,,visa-electron,4.92E+15
+489,France,35409 CEDEX,visa,4.02E+15
+490,France,60506 CEDEX,jcb,3.53E+15
+491,Turkey,55530,china-unionpay,5.60E+17
+492,Brazil,89790-000,jcb,3.53E+15
+493,Philippines,4419,jcb,3.55E+15
+494,China,,switch,4.91E+17
+495,China,,jcb,3.55E+15
+496,China,,jcb,3.59E+15
+497,Ethiopia,,mastercard,5.18E+15
+498,Philippines,2307,jcb,3.54E+15
+499,China,,jcb,3.58E+15
+500,United States,48670,visa-electron,4.41E+15
+501,France,42963 CEDEX 9,bankcard,5.60E+15
+502,Democratic Republic of the Congo,,maestro,6.30E+17
+503,Russia,453430,visa,4.33E+15
+504,China,,instapayment,6.38E+15
+505,China,,bankcard,5.60E+15
+506,New Zealand,3244,jcb,3.55E+15
+507,Czech Republic,763 02,mastercard,5.20E+15
+508,Portugal,2855-174,laser,6.71E+16
+509,Poland,06-456,mastercard,5.10E+15
+510,China,,jcb,3.55E+15
+511,China,,china-unionpay,5.61E+17
+512,China,,maestro,5.02E+15
+513,Poland,63-140,laser,6.71E+18
+514,Canada,J5T,mastercard,5.11E+15
+515,Ireland,P31,bankcard,5.60E+15
+516,Indonesia,,americanexpress,3.74E+14
+517,Egypt,,bankcard,5.60E+15
+518,Russia,403772,jcb,3.54E+15
+519,Portugal,5120-040,visa,4.19E+15
+520,China,,americanexpress,3.44E+14
+521,Indonesia,,jcb,3.56E+15
+522,Pakistan,67451,jcb,3.56E+15
+523,China,,jcb,3.54E+15
+524,Portugal,3700-364,jcb,3.57E+15
+525,Ecuador,,jcb,3.58E+15
+526,China,,visa,4.02E+15
+527,Portugal,4990-585,jcb,3.56E+15
+528,Portugal,4755-393,diners-club-carte-blanche,3.03E+13
+529,Canada,L9H,jcb,3.53E+15
+530,China,,jcb,3.55E+15
+531,Greece,,diners-club-carte-blanche,3.02E+13
+532,France,92665 CEDEX,visa,4.02E+12
+533,Portugal,2435-585,jcb,3.57E+15
+534,Russia,607605,instapayment,6.37E+15
+535,Sweden,252 45,china-unionpay,5.60E+16
+536,Ukraine,,jcb,3.56E+15
+537,Pakistan,67081,jcb,3.56E+15
+538,Greece,,jcb,3.58E+15
+539,Malaysia,71770,jcb,3.55E+15
+540,Poland,62-002,visa,4.04E+15
+541,China,,jcb,3.56E+15
+542,Indonesia,,maestro,5.02E+15
+543,Czech Republic,542 34,bankcard,5.60E+15
+544,Slovenia,2364,jcb,3.59E+15
+545,Poland,00-805,jcb,3.57E+15
+546,China,,jcb,3.53E+15
+547,Egypt,,jcb,3.54E+15
+548,Portugal,4620-031,jcb,3.55E+15
+549,China,,jcb,3.54E+15
+550,China,,diners-club-carte-blanche,3.02E+13
+551,China,,visa-electron,4.92E+15
+552,Brazil,88200-000,jcb,3.54E+15
+553,France,84274 CEDEX,china-unionpay,5.60E+18
+554,France,75509 CEDEX 15,jcb,3.57E+15
+555,Argentina,3240,jcb,3.55E+15
+556,Brazil,36880-000,jcb,3.55E+15
+557,Indonesia,,jcb,3.53E+15
+558,Japan,633-0245,bankcard,5.60E+15
+559,Portugal,7200-252,solo,6.77E+18
+560,Macedonia,1047,jcb,3.56E+15
+561,Saudi Arabia,,jcb,3.55E+15
+562,Paraguay,,jcb,3.57E+15
+563,Azerbaijan,,switch,4.91E+15
+564,China,,maestro,6.76E+16
+565,Peru,,laser,6.77E+17
+566,Sweden,745 38,visa,4.04E+15
+567,Poland,83-401,bankcard,5.60E+15
+568,Haiti,,switch,6.33E+17
+569,Netherlands,5104,visa-electron,4.92E+15
+570,Lithuania,53093,laser,6.77E+18
+571,Argentina,5807,jcb,3.54E+15
+572,United States,14225,switch,6.33E+15
+573,Indonesia,,jcb,3.55E+15
+574,Canada,G9T,jcb,3.57E+15
+575,France,75522 CEDEX 11,visa,4.25E+12
+576,China,,visa,4.04E+15
+577,Philippines,1135,bankcard,5.60E+15
+578,Slovenia,3230,jcb,3.55E+15
+579,Philippines,6709,jcb,3.58E+15
+580,Honduras,,china-unionpay,5.60E+15
+581,Indonesia,,mastercard,5.16E+15
+582,Indonesia,,switch,6.33E+17
+583,Vietnam,,jcb,3.53E+15
+584,Honduras,,mastercard,5.10E+15
+585,Portugal,3505-143,jcb,3.58E+15
+586,Afghanistan,,jcb,3.56E+15
+587,South Africa,2370,laser,6.77E+17
+588,Taiwan,,bankcard,5.60E+15
+589,Canada,H9S,jcb,3.58E+15
+590,Honduras,,jcb,3.54E+15
+591,United Arab Emirates,,jcb,3.59E+15
+592,France,78718 CEDEX,jcb,3.58E+15
+593,Japan,921-8804,visa-electron,4.51E+15
+594,Indonesia,,maestro,5.02E+15
+595,China,,mastercard,5.01E+15
+596,China,,maestro,6.76E+16
+597,China,,jcb,3.59E+15
+598,Mexico,41640,jcb,3.57E+15
+599,China,,jcb,3.55E+15
+600,China,,solo,6.77E+17
+601,China,,bankcard,5.61E+15
+602,France,29327 CEDEX,visa-electron,4.92E+15
+603,Indonesia,,switch,4.90E+15
+604,Indonesia,,jcb,3.56E+15
+605,France,63057 CEDEX 1,mastercard,5.45E+15
+606,China,,jcb,3.58E+15
+607,Mexico,27040,jcb,3.57E+15
+608,Tokelau,,jcb,3.55E+15
+609,Japan,246-0038,americanexpress,3.74E+14
+610,Sweden,151 52,bankcard,5.61E+15
+611,France,87090 CEDEX 9,jcb,3.56E+15
+612,Philippines,6808,mastercard,5.37E+15
+613,Russia,249432,jcb,3.58E+15
+614,China,,jcb,3.57E+15
+615,Iran,,jcb,3.57E+15
+616,France,29609 CEDEX 2,mastercard,5.11E+15
+617,Czech Republic,267 07,jcb,3.53E+15
+618,France,79304 CEDEX,americanexpress,3.75E+14
+619,Togo,,jcb,3.58E+15
+620,Poland,34-142,jcb,3.54E+15
+621,Mexico,74960,china-unionpay,5.60E+17
+622,United States,76796,mastercard,5.05E+15
+623,Peru,,mastercard,5.40E+15
+624,Czech Republic,765 02,jcb,3.53E+15
+625,Indonesia,,jcb,3.56E+15
+626,China,,solo,6.77E+15
+627,Morocco,,visa-electron,4.91E+15
+628,China,,china-unionpay,5.60E+18
+629,China,,jcb,3.56E+15
+630,Syria,,jcb,3.55E+15
+631,China,,switch,4.94E+17
+632,Brazil,12600-000,solo,6.77E+15
+633,Pakistan,73061,diners-club-carte-blanche,3.02E+13
+634,China,,visa-electron,4.18E+15
+635,Indonesia,,jcb,3.55E+15
+636,Thailand,20170,china-unionpay,5.60E+16
+637,China,,jcb,3.59E+15
+638,Jamaica,,jcb,3.55E+15
+639,Mexico,61609,jcb,3.56E+15
+640,China,,jcb,3.56E+15
+641,China,,visa,4.04E+15
+642,Brazil,83300-000,switch,4.91E+15
+643,Belarus,,visa,4.39E+15
+644,New Caledonia,98824,switch,4.90E+15
+645,South Korea,,bankcard,5.61E+15
+646,Indonesia,,maestro,6.30E+16
+647,Portugal,6185-255,maestro,5.02E+16
+648,Greece,,diners-club-carte-blanche,3.03E+13
+649,Colombia,57068,jcb,3.59E+15
+650,China,,jcb,3.54E+15
+651,Mongolia,,jcb,3.57E+15
+652,Greece,,jcb,3.59E+15
+653,Malaysia,70644,mastercard,5.54E+15
+654,New Zealand,6160,jcb,3.56E+15
+655,Philippines,8420,diners-club-enroute,2.01E+14
+656,Barbados,,diners-club-carte-blanche,3.04E+13
+657,Paraguay,,diners-club-enroute,2.02E+14
+658,Palestinian Territory,,jcb,3.54E+15
+659,Uzbekistan,,jcb,3.58E+15
+660,China,,jcb,3.58E+15
+661,Sweden,777 34,americanexpress,3.72E+14
+662,Finland,38130,jcb,3.58E+15
+663,China,,jcb,3.54E+15
+664,Philippines,3710,china-unionpay,5.61E+16
+665,Cuba,,diners-club-enroute,2.02E+14
+666,United Kingdom,OX12,mastercard,5.17E+15
+667,Philippines,8714,china-unionpay,5.61E+16
+668,China,,jcb,3.55E+15
+669,Portugal,3800-766,mastercard,5.41E+15
+670,Costa Rica,60105,jcb,3.57E+15
+671,Sweden,241 32,bankcard,5.61E+15
+672,Japan,818-0138,maestro,6.76E+15
+673,China,,mastercard,5.10E+15
+674,Philippines,9810,mastercard,5.49E+15
+675,Libya,,maestro,5.89E+15
+676,Portugal,3630-230,maestro,6.76E+16
+677,Nigeria,,visa,4.27E+12
+678,China,,laser,6.77E+18
+679,China,,jcb,3.57E+15
+680,Philippines,1441,china-unionpay,5.60E+15
+681,Mexico,65600,mastercard,5.10E+15
+682,Morocco,,maestro,6.76E+15
+683,Greece,,jcb,3.58E+15
+684,Albania,,visa,4.02E+12
+685,France,63019 CEDEX 2,jcb,3.56E+15
+686,Indonesia,,jcb,3.55E+15
+687,Indonesia,,jcb,3.55E+15
+688,Mongolia,,jcb,3.54E+15
+689,Thailand,66130,jcb,3.56E+15
+690,China,,jcb,3.53E+15
+691,Laos,,jcb,3.56E+15
+692,France,06721 CEDEX,diners-club-carte-blanche,3.05E+13
+693,Indonesia,,mastercard,5.05E+15
+694,Canada,J0N,jcb,3.57E+15
+695,Portugal,9600-502,maestro,6.76E+15
+696,Indonesia,,mastercard,5.10E+15
+697,Poland,16-420,maestro,6.76E+17
+698,Indonesia,,jcb,3.55E+15
+699,Pakistan,24081,solo,6.77E+17
+700,Iran,,jcb,3.56E+15
+701,Cuba,,maestro,6.76E+17
+702,Russia,303154,solo,6.33E+18
+703,Honduras,,bankcard,5.60E+15
+704,Russia,462800,jcb,3.54E+15
+705,Poland,16-420,jcb,3.56E+15
+706,Argentina,8309,jcb,3.58E+15
+707,Niger,,jcb,3.53E+15
+708,China,,maestro,6.76E+15
+709,China,,jcb,3.59E+15
+710,Indonesia,,visa-electron,4.41E+15
+711,Indonesia,,jcb,3.59E+15
+712,Mexico,93610,mastercard,5.05E+15
+713,Japan,899-8607,jcb,3.55E+15
+714,Indonesia,,jcb,3.55E+15
+715,Canada,L2J,jcb,3.54E+15
+716,China,,jcb,3.58E+15
+717,Russia,443033,jcb,3.53E+15
+718,Brazil,39970-000,jcb,3.55E+15
+719,Anguilla,,jcb,3.58E+15
+720,China,,jcb,3.54E+15
+721,Philippines,4502,americanexpress,3.38E+14
+722,China,,jcb,3.59E+15
+723,El Salvador,,solo,6.77E+15
+724,China,,china-unionpay,5.60E+15
+725,China,,diners-club-enroute,2.02E+14
+726,Burundi,,americanexpress,3.47E+14
+727,China,,jcb,3.55E+15
+728,China,,jcb,3.53E+15
+729,China,,diners-club-enroute,2.02E+14
+730,China,,jcb,3.54E+15
+731,United States,23663,diners-club-carte-blanche,3.03E+13
+732,China,,jcb,3.57E+15
+733,Czech Republic,332 04,maestro,5.02E+18
+734,United States,95108,jcb,3.57E+15
+735,Canada,N2E,diners-club-carte-blanche,3.04E+13
+736,Czech Republic,789 01,jcb,3.54E+15
+737,China,,jcb,3.54E+15
+738,China,,visa,4.02E+15
+739,Nigeria,,mastercard,5.57E+15
+740,China,,jcb,3.55E+15
+741,China,,solo,6.33E+17
+742,Indonesia,,jcb,3.59E+15
+743,Indonesia,,americanexpress,3.72E+14
+744,Serbia,,mastercard,5.57E+15
+745,France,94039 CEDEX,jcb,3.56E+15
+746,Canada,V6S,bankcard,5.60E+15
+747,China,,bankcard,5.60E+15
+748,Indonesia,,jcb,3.56E+15
+749,Philippines,5505,jcb,3.54E+15
+750,Brazil,98700-000,diners-club-enroute,2.02E+14
+751,Indonesia,,jcb,3.58E+15
+752,Russia,307450,jcb,3.58E+15
+753,New Zealand,7541,jcb,3.57E+15
+754,Norway,280,mastercard,5.10E+15
+755,Philippines,2519,americanexpress,3.78E+14
+756,Vietnam,,jcb,3.53E+15
+757,China,,visa,4.04E+12
+758,Bulgaria,4126,jcb,3.57E+15
+759,Poland,34-205,jcb,3.54E+15
+760,Malaysia,15630,bankcard,5.60E+15
+761,Indonesia,,jcb,3.56E+15
+762,China,,jcb,3.56E+15
+763,Sweden,912 24,jcb,3.53E+15
+764,Indonesia,,jcb,3.55E+15
+765,Poland,23-304,jcb,3.56E+15
+766,Indonesia,,jcb,3.56E+15
+767,Japan,479-0871,visa-electron,4.41E+15
+768,Ukraine,,jcb,3.54E+15
+769,Poland,26-065,mastercard,5.05E+15
+770,Brazil,83280-000,jcb,3.54E+15
+771,Czech Republic,664 31,jcb,3.54E+15
+772,Czech Republic,289 22,jcb,3.56E+15
+773,China,,jcb,3.55E+15
+774,Indonesia,,visa-electron,4.51E+15
+775,Indonesia,,diners-club-carte-blanche,3.02E+13
+776,Philippines,2200,americanexpress,3.72E+14
+777,Indonesia,,china-unionpay,5.61E+16
+778,Sweden,312 36,maestro,5.89E+18
+779,China,,mastercard,5.11E+15
+780,France,75128 CEDEX 11,jcb,3.54E+15
+781,Argentina,5590,jcb,3.58E+15
+782,Indonesia,,diners-club-enroute,2.02E+14
+783,China,,diners-club-enroute,2.02E+14
+784,Brazil,07400-000,jcb,3.58E+15
+785,Colombia,477058,americanexpress,3.75E+14
+786,Egypt,,switch,6.33E+18
+787,Portugal,6230-026,visa,4.02E+15
+788,Portugal,2530-700,maestro,6.76E+18
+789,Iran,,bankcard,5.60E+15
+790,China,,diners-club-enroute,2.02E+14
+791,Poland,72-112,jcb,3.56E+15
+792,Czech Republic,717 00,mastercard,5.56E+15
+793,Sweden,113 39,jcb,3.56E+15
+794,Russia,649750,diners-club-carte-blanche,3.01E+13
+795,Armenia,,bankcard,5.60E+15
+796,Bulgaria,8216,diners-club-international,3.61E+13
+797,China,,mastercard,5.01E+15
+798,Japan,969-1513,jcb,3.53E+15
+799,Russia,655752,solo,6.33E+18
+800,Colombia,55038,jcb,3.59E+15
+801,Japan,969-1783,bankcard,5.60E+15
+802,Yemen,,jcb,3.54E+15
+803,Palestinian Territory,,diners-club-us-ca,5.47E+15
+804,Thailand,30270,jcb,3.58E+15
+805,China,,instapayment,6.38E+15
+806,China,,mastercard,5.01E+15
+807,France,41965 CEDEX 9,americanexpress,3.77E+14
+808,Myanmar,,visa,4.26E+12
+809,China,,mastercard,5.50E+15
+810,Estonia,,jcb,3.59E+15
+811,Norway,3741,instapayment,6.39E+15
+812,Russia,368757,jcb,3.56E+15
+813,Philippines,2419,diners-club-carte-blanche,3.03E+13
+814,Vietnam,,mastercard,5.14E+15
+815,Iran,,jcb,3.53E+15
+816,China,,jcb,3.56E+15
+817,Colombia,415047,jcb,3.55E+15
+818,Philippines,5504,jcb,3.54E+15
+819,Poland,13-210,jcb,3.56E+15
+820,Russia,669310,laser,6.77E+15
+821,Brazil,45450-000,visa-electron,4.91E+15
+822,China,,laser,6.30E+16
+823,China,,jcb,3.54E+15
+824,Peru,,diners-club-international,3.61E+13
+825,Peru,,diners-club-enroute,2.02E+14
+826,Peru,,americanexpress,3.72E+14
+827,China,,jcb,3.53E+15
+828,Indonesia,,jcb,3.59E+15
+829,Indonesia,,jcb,3.57E+15
+830,China,,americanexpress,3.74E+14
+831,Nepal,,diners-club-carte-blanche,3.06E+13
+832,China,,jcb,3.59E+15
+833,Sweden,103 50,jcb,3.53E+15
+834,Philippines,7020,jcb,3.54E+15
+835,Russia,692089,diners-club-carte-blanche,3.04E+13
+836,Indonesia,,maestro,6.30E+16
+837,Russia,450049,switch,5.64E+17
+838,Indonesia,,jcb,3.59E+15
+839,Bangladesh,1553,jcb,3.56E+15
+840,Uruguay,,china-unionpay,5.60E+17
+841,China,,laser,6.71E+17
+842,China,,mastercard,5.43E+15
+843,Germany,13088,jcb,3.57E+15
+844,Indonesia,,diners-club-enroute,2.02E+14
+845,United States,70183,solo,6.33E+15
+846,Afghanistan,,diners-club-us-ca,5.46E+15
+847,North Korea,,diners-club-enroute,2.02E+14
+848,Sweden,172 79,diners-club-enroute,2.02E+14
+849,China,,diners-club-enroute,2.02E+14
+850,China,,visa-electron,4.41E+15
+851,China,,visa-electron,4.91E+15
+852,Philippines,7025,maestro,6.76E+18
+853,China,,americanexpress,3.72E+14
+854,China,,visa,4.04E+15
+855,Macedonia,2000,switch,6.33E+15
+856,Bangladesh,5260,jcb,3.54E+15
+857,China,,visa-electron,4.91E+15
+858,Honduras,,jcb,3.55E+15
+859,Ukraine,,jcb,3.55E+15
+860,Colombia,522068,jcb,3.55E+15
+861,Poland,42-253,mastercard,5.01E+15
+862,Indonesia,,diners-club-us-ca,5.52E+15
+863,Indonesia,,laser,6.30E+18
+864,Sweden,801 84,diners-club-international,3.63E+13
+865,China,,switch,4.90E+15
+866,China,,jcb,3.57E+15
+867,Bahamas,,bankcard,5.60E+15
+868,Belarus,,switch,4.90E+17
+869,Mexico,37487,jcb,3.55E+15
+870,Japan,673-1236,jcb,3.56E+15
+871,Brazil,28460-000,americanexpress,3.40E+14
+872,Poland,43-410,maestro,6.76E+15
+873,South Africa,1980,jcb,3.53E+15
+874,Lithuania,70073,jcb,3.57E+15
+875,Brazil,65200-000,jcb,3.54E+15
+876,Indonesia,,mastercard,5.10E+15
+877,North Korea,,visa,4.02E+12
+878,Latvia,,maestro,6.76E+18
+879,Indonesia,,maestro,6.76E+16
+880,Canada,K2J,visa,4.04E+15
+881,North Korea,,jcb,3.59E+15
+882,China,,switch,4.91E+18
+883,South Africa,5455,jcb,3.54E+15
+884,Russia,249903,diners-club-enroute,2.02E+14
+885,Mexico,55407,jcb,3.53E+15
+886,China,,jcb,3.57E+15
+887,Indonesia,,jcb,3.58E+15
+888,Russia,182514,jcb,3.53E+15
+889,Egypt,,jcb,3.55E+15
+890,Portugal,4620-400,jcb,3.56E+15
+891,Cuba,,jcb,3.57E+15
+892,Indonesia,,diners-club-carte-blanche,3.01E+13
+893,Philippines,5012,americanexpress,3.74E+14
+894,Indonesia,,maestro,5.02E+16
+895,Kenya,,mastercard,5.11E+15
+896,Indonesia,,diners-club-enroute,2.02E+14
+897,Italy,30132,jcb,3.57E+15
+898,Nigeria,,switch,6.33E+15
+899,China,,diners-club-enroute,2.02E+14
+900,China,,bankcard,5.60E+15
+901,Japan,890-0073,jcb,3.55E+15
+902,China,,visa-electron,4.91E+15
+903,Indonesia,,mastercard,5.10E+15
+904,Vietnam,,mastercard,5.55E+15
+905,Indonesia,,visa,4.92E+15
+906,Colombia,734007,china-unionpay,5.60E+18
+907,Portugal,2655-082,jcb,3.56E+15
+908,Russia,618548,jcb,3.57E+15
+909,France,92907 CEDEX,diners-club-carte-blanche,3.02E+13
+910,China,,jcb,3.58E+15
+911,Greece,,maestro,6.76E+15
+912,China,,diners-club-carte-blanche,3.02E+13
+913,Honduras,,jcb,3.57E+15
+914,Argentina,4424,visa-electron,4.51E+15
+915,China,,jcb,3.55E+15
+916,Kuwait,,jcb,3.54E+15
+917,Indonesia,,jcb,3.54E+15
+918,Mexico,32883,jcb,3.55E+15
+919,Spain,3203,jcb,3.57E+15
+920,Nigeria,,jcb,3.56E+15
+921,Peru,,maestro,5.89E+15
+922,Vietnam,,laser,6.77E+16
+923,Canada,H9A,diners-club-enroute,2.02E+14
+924,Russia,396647,diners-club-enroute,2.02E+14
+925,Peru,,diners-club-us-ca,5.47E+15
+926,Hungary,1194,jcb,3.58E+15
+927,Czech Republic,190 12,laser,6.71E+16
+928,Madagascar,,china-unionpay,5.60E+15
+929,Mongolia,,americanexpress,3.44E+14
+930,Palestinian Territory,,jcb,3.57E+15
+931,Cuba,,jcb,3.56E+15
+932,Philippines,9016,jcb,3.56E+15
+933,Zimbabwe,,jcb,3.59E+15
+934,Mexico,63807,bankcard,5.60E+15
+935,Paraguay,,jcb,3.55E+15
+936,Portugal,3020-895,maestro,6.76E+18
+937,Australia,9010,maestro,6.05E+14
+938,Poland,26-035,mastercard,5.30E+15
+939,China,,bankcard,5.60E+15
+940,Portugal,7200-224,jcb,3.57E+15
+941,Venezuela,,switch,6.33E+15
+942,Russia,182170,diners-club-enroute,2.02E+14
+943,France,69212 CEDEX 03,china-unionpay,5.60E+17
+944,Brazil,89560-000,visa-electron,4.51E+15
+945,China,,mastercard,5.10E+15
+946,Russia,404264,jcb,3.53E+15
+947,Argentina,3361,jcb,3.55E+15
+948,Greece,,jcb,3.56E+15
+949,China,,jcb,3.55E+15
+950,Russia,172715,jcb,3.54E+15
+951,Canada,H9W,jcb,3.57E+15
+952,Indonesia,,jcb,3.59E+15
+953,Colombia,528539,jcb,3.56E+15
+954,Sweden,635 01,maestro,5.02E+15
+955,Portugal,7520-103,bankcard,5.60E+15
+956,Cyprus,,jcb,3.54E+15
+957,Ecuador,,jcb,3.56E+15
+958,Dominican Republic,11806,maestro,6.30E+16
+959,China,,americanexpress,3.38E+14
+960,Indonesia,,instapayment,6.38E+15
+961,Azerbaijan,,mastercard,5.10E+15
+962,Nigeria,,diners-club-international,3.69E+13
+963,China,,mastercard,5.00E+15
+964,Russia,215662,jcb,3.53E+15
+965,Japan,996-0051,switch,4.91E+15
+966,Philippines,1123,jcb,3.55E+15
+967,Thailand,85120,china-unionpay,5.61E+16
+968,Czech Republic,378 33,mastercard,5.10E+15
+969,Philippines,7109,jcb,3.54E+15
+970,Fiji,,jcb,3.57E+15
+971,Indonesia,,laser,6.77E+15
+972,Peru,,americanexpress,3.38E+14
+973,Poland,26-650,visa,4.82E+12
+974,Russia,689400,bankcard,5.60E+15
+975,China,,bankcard,5.60E+15
+976,Uganda,,visa-electron,4.03E+15
+977,Macedonia,1219,switch,5.64E+17
+978,Sweden,431 66,jcb,3.54E+15
+979,Nigeria,,jcb,3.54E+15
+980,Bangladesh,3571,diners-club-carte-blanche,3.06E+13
+981,France,22194 CEDEX,china-unionpay,5.61E+17
+982,United States,33805,jcb,3.58E+15
+983,China,,visa-electron,4.84E+15
+984,China,,jcb,3.58E+15
+985,China,,mastercard,5.01E+15
+986,Poland,43-523,diners-club-carte-blanche,3.04E+13
+987,Indonesia,,solo,6.77E+17
+988,Syria,,visa-electron,4.84E+15
+989,Serbia,,maestro,6.76E+17
+990,Indonesia,,jcb,3.57E+15
+991,Pakistan,33001,maestro,6.30E+15
+992,Argentina,3332,solo,6.77E+15
+993,Nigeria,,jcb,3.58E+15
+994,Japan,853-0704,jcb,3.54E+15
+995,Brazil,29290-000,laser,6.77E+17
+996,Ukraine,,jcb,3.56E+15
+997,Indonesia,,visa-electron,4.84E+15
+998,Indonesia,,jcb,3.58E+15
+999,Philippines,6407,switch,4.91E+17
+1000,Sweden,123 47,instapayment,6.37E+15
