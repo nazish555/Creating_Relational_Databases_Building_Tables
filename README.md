@@ -1,4 +1,4 @@
-## **Data Engineering Project:  Creating Relational Databases and Tbales in PostgreSQL**
+## **Data Engineering Project:  Creating Relational Databases and Tables in PostgreSQL**
 
 This project showcases the implementation of a data engineering solution using Python within a Jupyter Notebook environment. The primary objective is to establish a connection with a PostgreSQL database, create three tables (`account_detail`, `personal_detail`, and `location_details`), and define a relational model between these tables, including the establishment of relationships. The project also utilizes the Pandas library to read data from CSV files into DataFrames for further processing.
 
